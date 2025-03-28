@@ -9,9 +9,13 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Build Status](https://github.com/MicroSpaceGen/MicroSpaceGen1/workflows/CI/badge.svg)](https://github.com/MicroSpaceGen/MicroSpaceGen1/actions)
 [![Coverage Status](https://coveralls.io/repos/github/MicroSpaceGen/MicroSpaceGen1/badge.svg?branch=main)](https://coveralls.io/github/MicroSpaceGen/MicroSpaceGen1?branch=main)
 [![Documentation Status](https://readthedocs.org/projects/microspacegen/badge/?version=latest)](https://microspacegen.readthedocs.io/en/latest/?badge=latest)
+
+## Links
+
+- 🌐 **Website**: [microspacegen.space](https://microspacegen.space)
+- 🐦 **Twitter**: [@MicroSpaceGen](https://x.com/home)
 
 ## Overview
 
@@ -202,10 +206,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Website: [microspacegen.org](https://microspacegen.org)
-- Email: contact@microspacegen.org
-- Twitter: [@MicroSpaceGen](https://twitter.com/MicroSpaceGen)
-- Discord: [MicroSpaceGen Community](https://discord.gg/microspacegen)
+- 🌐 **Website**: [microspacegen.space](https://microspacegen.space)
+- 🐦 **Twitter**: [@MicroSpaceGen](https://x.com/home)
 
 ## Acknowledgments
 
