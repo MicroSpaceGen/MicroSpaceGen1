@@ -5,12 +5,12 @@
 <div align="center">
   <img src="docs/images/logo.svg" alt="MicroSpaceGen Logo" width="200"/>
   <p><em>Advancing Space Biology Through Decentralized Science</em></p>
-</div>
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Coverage Status](https://coveralls.io/repos/github/MicroSpaceGen/MicroSpaceGen1/badge.svg?branch=main)](https://coveralls.io/github/MicroSpaceGen/MicroSpaceGen1?branch=main)
 [![Documentation Status](https://readthedocs.org/projects/microspacegen/badge/?version=latest)](https://microspacegen.readthedocs.io/en/latest/?badge=latest)
+</div>
 
 ## Links
 
