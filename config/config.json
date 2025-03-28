@@ -1,0 +1,37 @@
+{
+    "project": {
+        "name": "MicroSpaceGen",
+        "version": "0.1.0",
+        "description": "Rewriting Life's Cosmic Code"
+    },
+    "experiment": {
+        "default_duration": 30,
+        "temperature_range": {
+            "min": 20.0,
+            "max": 40.0
+        },
+        "radiation_levels": {
+            "low": 0.1,
+            "medium": 0.5,
+            "high": 1.0
+        }
+    },
+    "analysis": {
+        "mutation_threshold": 0.05,
+        "sequence_comparison": {
+            "min_similarity": 0.8,
+            "max_gaps": 10
+        }
+    },
+    "blockchain": {
+        "network": "testnet",
+        "gas_limit": 500000,
+        "confirmation_blocks": 12
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "logs/microspacegen.log",
+        "max_size": 10485760,
+        "backup_count": 5
+    }
+} 
