@@ -165,29 +165,20 @@ MicroSpaceGen/
 
 ## Development Roadmap
 
-### Phase 1: Foundation (2024 Q1-Q2)
-- [x] Core platform development
-- [x] Basic gene analysis implementation
-- [x] Blockchain integration
-- [ ] Initial space simulation setup
+### Short-term Goals (1-2 Years)
+- [ ] Complete Ground Simulation Experiments
+- [ ] Build Microbial Genetic Variation Database
+- [ ] Apply for Space Experiment Qualification
 
-### Phase 2: Enhancement (2024 Q3-Q4)
-- [ ] Advanced gene analysis algorithms
-- [ ] Machine learning integration
-- [ ] Enhanced blockchain features
-- [ ] Improved space simulation
+### Mid-term Goals (2-3 Years)
+- [ ] Successfully Conduct Space Experiments
+- [ ] Publish High-impact Research Papers
+- [ ] Develop New Gene Editing Technologies
 
-### Phase 3: Expansion (2025)
-- [ ] Global research network
-- [ ] Advanced visualization tools
-- [ ] Mobile application
-- [ ] API marketplace
-
-### Phase 4: Innovation (2026)
-- [ ] AI-powered analysis
-- [ ] Advanced space experiments
-- [ ] Cross-platform integration
-- [ ] Community features
+### Long-term Goals (3-5 Years)
+- [ ] Establish Space Microbial Gene Editing Standards
+- [ ] Develop Extreme Environment Survival Technologies
+- [ ] Advance Frontier Life Science Research
 
 ## Contributing
 
